@@ -3,16 +3,16 @@
 <!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
 <!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
 <!--[if gt IE 8]><!-->
-<html class=""><!-- InstanceBegin template="/Templates/layout.dwt" codeOutsideHTMLIsLocked="false" -->
+<html class="">
 <!--<![endif]-->
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Untitled Document</title>
-<!-- InstanceEndEditable -->
-<link href="assets/boilerplate.css" rel="stylesheet" type="text/css">
-<link href="assets/MainTemplate.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+<link href="../assets/boilerplate.css" rel="stylesheet" type="text/css">
+<link href="../assets/MainTemplate.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 body {
 	background-color: #FFF;
@@ -49,9 +49,9 @@ Do the following if you're using your customized build of modernizr (http://www.
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script src="assets/respond.min.js"></script>
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+<script src="../assets/respond.min.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 <body>
 <div class="gridContainer clearfix">
@@ -63,8 +63,8 @@ Do the following if you're using your customized build of modernizr (http://www.
   <nav>
     <div id="navigation">
       <ul>
-        <li><a href="about.html">About</a></li>
-        <li><a href="pro-project.html">Professional Projects</a></li>
+        <li><a href="../about.html">About</a></li>
+        <li><a href="../pro-project.html">Professional Projects</a></li>
         <li><a href="#">Personal Projects</a></li>
         <li><a href="#">Resume</a></li>
         <li><a href="#">Contact</a></li>
@@ -72,9 +72,11 @@ Do the following if you're using your customized build of modernizr (http://www.
     </div>
   </nav>
   
-  <div id="Content"><!-- InstanceBeginEditable name="EditableContent" -->
-    <div id="Title">This is a portfolio website for Minsoo Lee.</div>
-    <!-- InstanceEndEditable --></div>
+  <div id="Content"><!-- TemplateBeginEditable name="EditableContent" -->
+    <div id="Title"></div>
+    <div id="Image"> <img name="" src="" width="200" height="150" alt=""> </div>
+    <div id="Description"></div>
+  <!-- TemplateEndEditable --></div>
 </div>
 </body>
-<!-- InstanceEnd --></html>
+</html>
