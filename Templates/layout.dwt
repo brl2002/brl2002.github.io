@@ -63,7 +63,7 @@ Do the following if you're using your customized build of modernizr (http://www.
   <nav>
     <div id="navigation">
       <ul>
-        <li><a href="../about.html">About</a></li>
+        <li><a href="../index.html">About</a></li>
         <li><a href="../pro-project.html">Professional Projects</a></li>
         <li><a href="#">Personal Projects</a></li>
         <li><a href="#">Resume</a></li>
@@ -73,9 +73,9 @@ Do the following if you're using your customized build of modernizr (http://www.
   </nav>
   
   <div id="Content"><!-- TemplateBeginEditable name="EditableContent" -->
-    <div id="Title"></div>
-    <div id="Image"> <img name="" src="" width="200" height="150" alt=""> </div>
-    <div id="Description"></div>
+    <div id="Title">Place Title Here</div>
+    <div id="Image">Place Images Here</div>
+    <div id="Description">Place Description Here</div>
   <!-- TemplateEndEditable --></div>
 </div>
 </body>
