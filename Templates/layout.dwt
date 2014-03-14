@@ -9,7 +9,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Untitled Document</title>
+<title>Minsoo Lee</title>
 <!-- TemplateEndEditable -->
 <link href="../assets/boilerplate.css" rel="stylesheet" type="text/css">
 <link href="../assets/MainTemplate.css" rel="stylesheet" type="text/css">
@@ -65,10 +65,10 @@ Do the following if you're using your customized build of modernizr (http://www.
       <ul>
         <li><a href="../index.html">About</a></li>
         <li><a href="../pro-project.html">Professional Projects</a></li>
-        <li><a href="#">Personal Projects</a></li>
-        <li><a href="#">Resume</a></li>
-        <li><a href="#">Contact</a></li>
-        </ul>
+        <li><a href="../per-project.html">Personal Projects</a></li>
+        <li><a href="../resume.html">Resume</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+      </ul>
     </div>
   </nav>
   
@@ -76,7 +76,9 @@ Do the following if you're using your customized build of modernizr (http://www.
     <div id="Title">Place Title Here</div>
     <div id="Image">Place Images Here</div>
     <div id="Description">Place Description Here</div>
-  <!-- TemplateEndEditable --></div>
+  <!-- TemplateEndEditable -->
+  <div id="Contact"><a href="../contact.html">Contact Minsoo</a></div>
+  </div>
 </div>
 </body>
 </html>
