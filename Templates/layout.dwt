@@ -76,7 +76,7 @@ Do the following if you're using your customized build of modernizr (http://www.
     <div id="Image">Place Images Here</div>
     <div id="Description">Place Description Here</div>
   <!-- TemplateEndEditable -->
-  <div id="Contact"><a href="../contact.html">Contact Minsoo</a></div>
+  <div id="Contact"><a href="https://www.facebook.com/brian.m.lee.94?ref=tn_tnmn" target="_blank"><img src="../images/Social Media/facebook.jpg" alt="facebook"></a><a href="http://www.linkedin.com/in/minprogramming" target="_blank"><img src="../images/Social Media/linkedin.jpg" alt="linkedin"></a><a href="https://twitter.com/brl2002" target="_blank"><img src="../images/Social Media/twitter.jpg" alt="twitter"></a></div>
   </div>
 </div>
 </body>
