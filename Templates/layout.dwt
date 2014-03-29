@@ -20,13 +20,20 @@ body {
 body,td,th {
 	color: #000;
 }
+#navigation{
+	display: table;	
+	list-style-type: none;
+}
 #navigation li {
+	float: left;
+	width: auto;
+	padding-right: 5px;
 	font: 20px Arial;
-	display: inline;
+	display: table-cell;
 	list-style-type: none;
 }
 #navigation a {
-	padding: 5px 25px;
+	padding: 5px 48px;
 	background-color: #09F;
 	color: #FFF;
 	text-decoration: none;
